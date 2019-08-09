@@ -1,7 +1,7 @@
 # Democratic-Blind-Spots
 Files for chapters 3 and 4 of the dissertation Democratic Blind Spots: Organized Labor and the Persistence of Subnational Authoritarianism.
 
-# DemocraticBlindspots
+# Democratic_Blindspots_Dissertation
  
 This PDF is the final submitted copy of my dissertation. The empirical sections are found in chapters 3 and 4. The replication files area part of this repository. 
 
